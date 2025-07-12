@@ -1,6 +1,6 @@
-# CS-545 Implementation for RevealMNIST Project.
+# DDQN Implementation for RevealMNIST Project of the RL.
 # DDQN Implementation
-# VErsion: Determinstic POlicy
+# Version: Stochastic Policy
 # In stochastic version
 # 1. More training episodes to reach a stable learning.
 # 2. Exploration strategy: decay epsilon more slowly to ensure sufficient exploration
